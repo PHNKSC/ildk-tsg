@@ -51,7 +51,7 @@ G2L["7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["7"]["BackgroundTransparency"] = 1;
 G2L["7"]["Size"] = UDim2.new(0.84016, 0, 0.09288, 0);
 G2L["7"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["7"]["Text"] = [[The Strongest KILL FARM v1]];
+G2L["7"]["Text"] = [[The Strongest KILL FARM v1.2]];
 G2L["7"]["AutomaticSize"] = Enum.AutomaticSize.X;
 G2L["7"]["Position"] = UDim2.new(0.07377, 0, 0.02206, 0);
 
@@ -335,7 +335,7 @@ local script = G2L["12"];
 	
 	end
 	
-	
+	]]
 	
 	
 	
@@ -392,7 +392,7 @@ local script = G2L["12"];
 	
 	end
 	
-	]]
+	
 end;
 task.spawn(C_12);
 -- StarterGui.ScreenGui.Frame.p2.UIGradient.spin
